@@ -25,6 +25,14 @@ const (
 	RPAREN    = ")"
 	LBRACE    = "{"
 	RBRACE    = "}"
+	MINUS     = "-"
+	SLASH     = "/"
+	ASTERISK  = "*"
+	BANG      = "!"
+
+	// Comparison
+	LT = "<"
+	GT = ">"
 
 	// Keywords
 	FUNCTION = "FUNCTION"
