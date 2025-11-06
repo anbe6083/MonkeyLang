@@ -17,6 +17,8 @@ const (
 	// Operators
 	ASSIGN = "="
 	PLUS   = "+"
+	EQ     = "=="
+	NOT_EQ = "!="
 
 	//DELIMITERS
 	COMMA     = ","
